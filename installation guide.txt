@@ -1,0 +1,3 @@
+copy htdocs to the root directory of xampp
+config apache to allow python code
+import 3117.sql in phpmyadmin
