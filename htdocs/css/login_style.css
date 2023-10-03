@@ -1,0 +1,13 @@
+h1,h2,h3,h4,h5,h6,form,a{
+	font-family: 'DotGothic16', sans-serif;
+}
+
+#login .bg-dark{
+	height:100vh;
+	color: #ffffff;
+}
+#login .p-5{
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}

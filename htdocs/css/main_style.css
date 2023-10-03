@@ -1,0 +1,22 @@
+h1,h2,h3,h4,h5,h6,form,a{
+	font-family: 'DotGothic16', sans-serif;
+	color: #ffffff;
+}
+
+#main .bg-dark{
+	height: 100vh;
+	color: #ffffff;
+}
+#main .p-5{
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+#main .row{
+	height: 100%;
+}
+
+#renderer {
+	height: 70vh;
+}
